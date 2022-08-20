@@ -1,4 +1,6 @@
 
+#                           STUDENT RIGISTRATION FORM BASIC CODE
+
 students = {None}
 rolNum = {None}
 Chk_and_Entery = input("\nIf You Want New Student Entery Please Press E: ")
